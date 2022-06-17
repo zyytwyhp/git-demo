@@ -1,5 +1,5 @@
 hello world ! hello git!
-222222222222222222222
+222222222222
 hello world ! hello git!
 hello world ! hello git!
 hello world ! hello git!
@@ -8,4 +8,4 @@ hello world ! hello git!
 hello world ! hello git!
 hello world ! hello git!
 hello world ! hello git!
-3333333333333333333333
+333333333
